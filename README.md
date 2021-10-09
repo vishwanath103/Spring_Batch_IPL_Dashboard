@@ -9,3 +9,7 @@ Dashboard for IPL dataset
 - Spring MVC APIs
 - React Frontend
 - Functional componenets, Effects, Hooks
+
+# Spring Batch
+Essential parts of sprint batch 
+- User job - steps - (reader - processor - writer)
